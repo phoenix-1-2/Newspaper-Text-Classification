@@ -4,6 +4,5 @@ This is a Machine Learning model that can predict the type of news based on thei
 ### Accuracy of this model : 84%
 ### Algorithm used : Deep Learning : Neural Networks
 ## Technology used : 
-Python,Pandas,
-Sklearn,Keras
-
+Python,Pandas,Sklearn,Keras,Nltk(
+Natural Language Toolkit)
